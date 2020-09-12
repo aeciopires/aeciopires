@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://komarev.com/ghpvc/?username=aeciopires&color=green&style=plastic)
+
 <!--
 **aeciopires/aeciopires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -23,3 +25,5 @@ About me:
 
 💬 For [contact](http://blog.aeciopires.com/contato)
 
+
+![Vitor Anjos stats](https://github-readme-stats.vercel.app/api?username=aeciopires&show_icons=true&theme=default)
