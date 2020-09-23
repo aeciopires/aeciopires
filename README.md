@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<!-- ![visitors](https://komarev.com/ghpvc/?username=aeciopires&color=blue&style=plastic) -->
+<a href="http://aeciopires.com"><img alt="Website" src="https://img.shields.io/badge/website-aeciopires.com-orange?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/aeciopires/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AecioPires-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/intent/follow?screen_name=aeciopires">
+        <img src="https://img.shields.io/twitter/follow/aeciopires?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+![visitors](https://komarev.com/ghpvc/?username=aeciopires&color=blue)
 
 ![Aécio Pires stats](https://github-readme-stats.vercel.app/api?username=aeciopires&show_icons=true&theme=default)
 
@@ -10,7 +15,6 @@
 
 About me:
 
-- 💻 My blog is [aeciopires.com](http://aeciopires.com)
 - 🇧🇷 I'm from Brazil
 - 👨🏼‍💻 I’m currently Cloud Architect at [Sensedia](https://sensedia.com) (Jan/2020)
 - 🎓 Professional Master in Information Technology at [IFPB](https://www.ifpb.edu.br) (In progress)
