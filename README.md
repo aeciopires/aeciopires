@@ -5,6 +5,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=aeciopires">
         <img src="https://img.shields.io/twitter/follow/aeciopires?style=social&logo=twitter"
             alt="follow on Twitter"></a>
+<a href="https://gist.github.com/aeciopires"><img alt="Website" src="https://img.shields.io/badge/website-gist-orange?style=flat&logo=google-chrome"></a>
 ![visitors](https://komarev.com/ghpvc/?username=aeciopires&color=blue)
 
 ![Aécio Pires stats](https://github-readme-stats.vercel.app/api?username=aeciopires&show_icons=true&theme=default)
