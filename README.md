@@ -17,7 +17,7 @@
 About me:
 
 - 🇧🇷 I'm from Brazil
-- 👨🏼‍💻 I’m currently Cloud Architect at [Sensedia](https://sensedia.com) (Jan/2020)
+- 👨🏼‍💻 I’m currently Cloud Architect at [Sensedia](https://sensedia.com)
 - 🎓 Master in Information Technology at [IFPB](https://www.ifpb.edu.br) (2021)
 - 📖 One of the authors of the [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) (2020)
 - 📖 One of the authors of the [Integração Contínua com Jenkins](https://novatec.com.br/livros/jenkins) (2019)
