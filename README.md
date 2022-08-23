@@ -8,7 +8,7 @@
 <a href="https://gist.github.com/aeciopires"><img alt="Website" src="https://img.shields.io/badge/website-gist-orange?style=flat&logo=google-chrome"></a>
 ![visitors](https://komarev.com/ghpvc/?username=aeciopires&color=blue)
 
-![Aécio Pires stats](https://github-readme-stats.vercel.app/api?username=aeciopires&show_icons=true&theme=dracula)
+![Aécio Pires stats](https://github-readme-stats.vercel.app/api?username=aeciopires&show_icons=true&theme=dracula&include_all_commits=true)
 
 <!--
 **aeciopires/aeciopires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
