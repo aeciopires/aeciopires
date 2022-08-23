@@ -19,10 +19,9 @@ About me:
 - 🇧🇷 I'm from Brazil
 - 15+ years of hands-on experience, implementing and optimizing infrastructure as a code.
 - Proficient in AWS and GCP.
-- I'm passionate about DevOPS culture, and am interested in learning about new technologies.
+- I'm passionate about DevOps culture, and am interested in learning about new technologies.
 - I thrive in environments that provide me with continuous challenges, opportunities to acquire new skills and improve my own. 
 - Furthermore, I’m committed to establishing and bolstering collaborative, diverse and inclusive environments that value assertive communication and knowledge sharing.
-- 👨🏼‍💻 I work as a Cloud Architect at [Sensedia](https://sensedia.com) (since 2020)
 
 Certifications:
 
