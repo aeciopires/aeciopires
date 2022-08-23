@@ -52,6 +52,6 @@ I contribute to the following Open Source projects:
 * [adsoft](https://github.com/aeciopires/adsoft)
 * [PipeConf](https://gitlab.com/aeciopires/pipeconf)
 
-ℹ️ For more information see my resume on the [Linkedin](https://www.linkedin.com/in/aeciopires) or [Lattes](http://lattes.cnpq.br/5154345089398804).
+ℹ️ For more information see my resume on the [Linkedin](https://www.linkedin.com/in/aeciopires).
 
 💬 For [contact](http://blog.aeciopires.com/contato)
