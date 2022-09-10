@@ -25,6 +25,7 @@ About me:
 
 Certifications:
 
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fa02cb3e-9b37-427f-a4f7-b67b08b2037c/public_url) (2022)
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/02357694-4e7e-4748-bfe6-c3ce241ea44c?source=linked_in_profile) (2022)
 
 Education:
