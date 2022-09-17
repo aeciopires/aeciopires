@@ -46,7 +46,7 @@ Author in the following books in pt-BR:
 I contribute to the following Open Source projects:
 
 * [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)
-* [cetic/helm-zabbix](https://github.com/cetic/helm-zabbix)
+* [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix)
 * [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts)
 * [Sensedia/open-tools](https://github.com/Sensedia/open-tools)
 * [Sensedia/rutil](https://github.com/Sensedia/rutil)
