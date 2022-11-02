@@ -29,7 +29,7 @@ Certifications:
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/02357694-4e7e-4748-bfe6-c3ce241ea44c?source=linked_in_profile) (2022)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/af08c778-58fe-403e-9bbf-619f42d6c0be/linked_in?t=riicos) (2022)
 - [GitOps at Scale - Codefresh](https://learning.codefresh.io/certificate_v2/63242d42bf43907ba64a1709/user/61dc2305d96f7155003683da) (2022)
-- [GitOps Fundamentals for Argo](https://codefresh.learnworlds.com/certificate/6197cb3b2fbcec4da328aab2/user/61dc2305d96f7155003683da) (2022)
+- [GitOps Fundamentals for Argo - Codefresh](https://codefresh.learnworlds.com/certificate/6197cb3b2fbcec4da328aab2/user/61dc2305d96f7155003683da) (2022)
 
 Education:
 
