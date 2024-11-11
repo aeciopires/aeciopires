@@ -25,6 +25,7 @@ About me:
 
 Certifications:
 
+- [GCP Associate Cloud Engineer](https://www.credly.com/badges/65a3ee96-4786-4572-b982-81df32f5832d/public_url) (2024)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fa02cb3e-9b37-427f-a4f7-b67b08b2037c/public_url) (2022)
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/02357694-4e7e-4748-bfe6-c3ce241ea44c?source=linked_in_profile) (2022)
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/af08c778-58fe-403e-9bbf-619f42d6c0be/linked_in?t=riicos) (2022)
