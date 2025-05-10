@@ -17,10 +17,8 @@
 About me:
 
 - 🇧🇷 I'm from Brazil.
-- I have hands-on experience, implementing and optimizing infrastructure as a code.
-- I'm passionate about DevOps culture, and am interested in learning about new technologies.
-- I thrive in environments that provide me with continuous challenges, opportunities to acquire new skills and improve my own. 
-- Furthermore, I’m committed to establishing and bolstering collaborative, diverse and inclusive environments that value assertive communication and knowledge sharing.
+- I have hands-on experience implementing and optimizing infrastructure as a code.
+- I'm passionate about DevOps/FinOps culture to share knowledge and redure cloud costs. 
 - Proficient in AWS and GCP.
 
 Certifications:
@@ -36,7 +34,7 @@ Education:
 
 - 🎓 Master in Information Technology at [IFPB](https://www.ifpb.edu.br) (2021)
 - 🎓 Specialist in Information Security at iDEZ College (2013)
-- 🎓 Technologist in Computer Networks at [IFPB](https://www.ifpb.edu.br) (2009)
+- 🎓 Bachelor in Computer Networks at [IFPB](https://www.ifpb.edu.br) (2009)
 
 Author in the following books in pt-BR:
 
@@ -47,7 +45,7 @@ Author in the following books in pt-BR:
 - 📖 [De A a Zabbix](https://novatec.com.br/livros/zabbix) (2015)
 - 📖 [Plataforma de Intercâmbio de Conteúdos Digitais](https://pt.scribd.com/doc/123206365/Plataforma-de-Intercambio-de-Conteudos-Digitais) (2014)
 
-I collaborate to the following Open Source projects:
+I contribute to the following Open Source projects:
 
 * [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)
 * [zabbix-community/helm-zabbix](https://github.com/zabbix-community/helm-zabbix)
