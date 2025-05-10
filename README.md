@@ -18,7 +18,7 @@ About me:
 
 - 🇧🇷 I'm from Brazil.
 - I have hands-on experience implementing and optimizing infrastructure as a code.
-- I'm passionate about DevOps/FinOps culture to share knowledge and redure cloud costs. 
+- I'm passionate about DevOps/FinOps culture to share knowledge and reduce cloud costs. 
 - Proficient in AWS and GCP.
 
 Certifications:
