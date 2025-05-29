@@ -2,9 +2,6 @@
 
 <a href="http://aeciopires.com"><img alt="Website" src="https://img.shields.io/badge/website-aeciopires.com-orange?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/aeciopires/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AecioPires-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/intent/follow?screen_name=aeciopires">
-        <img src="https://img.shields.io/twitter/follow/aeciopires?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
 <a href="https://gist.github.com/aeciopires"><img alt="Website" src="https://img.shields.io/badge/website-gist-orange?style=flat&logo=google-chrome"></a>
 ![visitors](https://komarev.com/ghpvc/?username=aeciopires&color=blue)
 
