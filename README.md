@@ -5,7 +5,7 @@
 <a href="https://gist.github.com/aeciopires"><img alt="Website" src="https://img.shields.io/badge/website-gist-orange?style=flat&logo=google-chrome"></a>
 ![visitors](https://komarev.com/ghpvc/?username=aeciopires&color=blue)
 
-![Aécio Pires stats](https://github-readme-stats.vercel.app/api?username=aeciopires&show_icons=true&theme=dracula&include_all_commits=true)
+![Aécio Pires stats](https://github-readme-stats.vercel.app/api?username=aeciopires&show_icons=true&theme=dracula&include_all_commits=true&show=reviews,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeciopires&hide_progress=true&show_icons=true&theme=dracula)
